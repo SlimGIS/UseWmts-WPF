@@ -2,7 +2,7 @@ Keywords: wmts, add wmts map, wmts service
 
 # Add WMTS map into your apps
 
-We recently added Wmts service support in our core features. Here is a nice [demo](https://github.com/SlimGIS/UseWmts-WPF) to show you how to use it. I think a sample is not enough. So this guide will discuss how to render a WMTS service from scratch. Let's first take a look at a preview here.
+<desc>This guide is going to show you how to render a WMTS service from scratch and embed the WMTS service into your GIS mapping software.</desc> Let's first take a look at a preview here.
 
 > This project already includes the runtime license. If your trial license is expired, it still can run the project by "ctrl + F5". Or [try executable](https://github.com/SlimGIS/UseWmts-WPF/releases). 
 
@@ -54,4 +54,4 @@ That's all for this this. If you like to know more, [leave us a message](mailto:
 ## Related Resources
 - [Source code](https://github.com/SlimGIS/UseWmts-WPF)
 - [Map Kit Layers](https://slimgis.com/documents/layers)
-- [About us](https://slimgis.com)
+- [SlimGIS Home](https://slimgis.com)
