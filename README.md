@@ -1,6 +1,6 @@
 Keywords: wmts, add wmts map, wmts service
 
-# Add WMTS map into your apps
+# Add WMTS Map into Your GIS Mapping Software
 
 <desc>This guide is going to show you how to render a WMTS service from scratch and embed the WMTS service into your GIS mapping software.</desc> Let's first take a look at a preview here.
 
